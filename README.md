@@ -13,8 +13,8 @@
 ![image](https://user-images.githubusercontent.com/66815358/215965769-3aefad2e-2baf-49cb-8537-1f20d9939131.png)
 
 ## IPA 발음변환기 입출력
-- 입력화면  
+### 입력화면  
 ![image](https://user-images.githubusercontent.com/66815358/215966348-00e78650-6d29-44d3-a873-072d9dea81b0.png)
 
-- 출력화면
- ![image](https://user-images.githubusercontent.com/66815358/215966428-eeb0c4b8-7948-49ed-8084-523aeef9efb2.png)
+### 출력화면
+![image](https://user-images.githubusercontent.com/66815358/215966428-eeb0c4b8-7948-49ed-8084-523aeef9efb2.png)
