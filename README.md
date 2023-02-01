@@ -18,3 +18,6 @@
 
 ### 출력화면
 ![image](https://user-images.githubusercontent.com/66815358/215966428-eeb0c4b8-7948-49ed-8084-523aeef9efb2.png)
+
+## Contributors
+SeongKi Choi
